@@ -1,8 +1,6 @@
-import 'dart:math';
 
 import 'package:flutter/material.dart';
 import 'package:omega_task/utils/color.dart';
-import 'package:omega_task/widgets/profile_photo.dart';
 
 import '../widgets/widgets.dart';
 
